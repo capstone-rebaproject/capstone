@@ -3,3 +3,4 @@ deneme
 aysenur
 deneme 2
 auto pull deneme 
+push deneme 2
