@@ -2,3 +2,4 @@ selammm
 deneme
 aysenur
 deneme 2
+auto pull deneme 
